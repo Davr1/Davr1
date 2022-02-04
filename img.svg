@@ -36,10 +36,10 @@
             }
 
             :root {
-                --background-primary: #FFFFFF02;
-                --text-muted: #C2C6CDAA;
-                --channeltextarea-background: #161B2288;
-                --text-normal: #DCDDDE;
+                --background-primary: #30303010;
+                --text-muted: #82868D;
+                --channeltextarea-background: #969B9233;
+                --text-normal: #9C9E9E;
                 --text-brand: #949CF7;
             }
 
